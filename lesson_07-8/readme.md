@@ -33,6 +33,7 @@
 19. [Способы организации CSS-кода](http://habrahabr.ru/post/256109/)
 20. [Bootstrap](http://getbootstrap.com/)
 21. [pure.css](http://purecss.io/)
+22. [30 CSS-фреймворков для адаптивного веб-дизайна](http://habrahabr.ru/post/156747/)
 
 
 Бонусное задание:
