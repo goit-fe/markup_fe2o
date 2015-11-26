@@ -17,3 +17,4 @@
 1. [Советы по стилю кода](https://learn.javascript.ru/coding-style) - обязательно к прочтению
 2. [Основы JavaScript](https://learn.javascript.ru/first-steps)
 3. [Структуры данных](https://learn.javascript.ru/data-structures)
+4. [Очень полезный ресурс по тонкостям JavaScript](http://bonsaiden.github.io/JavaScript-Garden/ru/), периодически сюда нужно заглядывать в темы, о которых говорилось в видео
