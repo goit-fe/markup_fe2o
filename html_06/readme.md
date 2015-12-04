@@ -2,7 +2,7 @@
 
 Домашнее задание:
 
-Сверстать [макет Zazor](/lesson_06/homework6.psd):
+Сверстать [макет Zazor](/html_06/homework6.psd):
 
 1. Верстка должна быть с пиксельной точностью
 2. Для разметки нужно использовать новые семантичные теги: `header, footer, aside, nav, section, main, figure, figcaption`
