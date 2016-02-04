@@ -13,6 +13,7 @@
 
 1. [npm для простых смертных](https://habrahabr.ru/post/243335/)
 2. [Несколько полезностей по работе с NPM](https://habrahabr.ru/post/206678/)
+2. [Grunt для тех, кто считает штуки вроде него странными и сложными](http://frontender.info/grunt-is-not-weird-and-hard/)
 3. [Grunt, инструмент для сборки javascript проектов](https://habrahabr.ru/post/148274/)
 4. [Самые нужные плагины для Grunt](https://habrahabr.ru/post/251157/)
 5. [Сборка проектов с помощью Gulp.js. Семинар в Яндексе](https://habrahabr.ru/company/yandex/blog/239993/)
