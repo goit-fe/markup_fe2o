@@ -14,12 +14,12 @@
 Так же нужно прочесть следующие материалы:
 
 1. [GET или POST: что выбрать?](http://xiper.net/learn/also-need-to-know/get-or-post)
-1. [Как работает браузер: HTTP запрос](http://xiper.net/learn/also-need-to-know/how-does-a-browser-HTTP-request)
-1. [Как работает браузер: обмен данными с сервером](http://xiper.net/learn/also-need-to-know/how-does-a-browser-communicate-with-the-server)
-1. [XMLHTTPRequest: описание, применение, частые проблемы](http://xmlhttprequest.ru/)
-1. [Основы XMLHttpRequest](https://learn.javascript.ru/ajax-xmlhttprequest)
-1. [jQuery для начинающих. Часть 3. AJAX](http://anton.shevchuk.name/javascript/jquery-for-beginners-ajax/)
-1. [jQuery + AJAX + (Google Search API || Yahoo Search API)](http://anton.shevchuk.name/javascript/jquery-and-google-search-api-or-yahoo-search-api-yahoo-search-api/)
-1. [AJAX и COMET](https://learn.javascript.ru/ajax) - раздел учебника `learn.javascript.ru`, рекомендуемо на досуге прочесть все
-1. [ООП в прототипном стиле](https://learn.javascript.ru/prototypes)
-1. [ООП в функциональном стиле](https://learn.javascript.ru/oop)
+2. [Как работает браузер: HTTP запрос](http://xiper.net/learn/also-need-to-know/how-does-a-browser-HTTP-request)
+3. [Как работает браузер: обмен данными с сервером](http://xiper.net/learn/also-need-to-know/how-does-a-browser-communicate-with-the-server)
+4. [XMLHTTPRequest: описание, применение, частые проблемы](http://xmlhttprequest.ru/)
+5. [Основы XMLHttpRequest](https://learn.javascript.ru/ajax-xmlhttprequest)
+6. [jQuery для начинающих. Часть 3. AJAX](http://anton.shevchuk.name/javascript/jquery-for-beginners-ajax/)
+7. [jQuery + AJAX + (Google Search API || Yahoo Search API)](http://anton.shevchuk.name/javascript/jquery-and-google-search-api-or-yahoo-search-api-yahoo-search-api/)
+8. [AJAX и COMET](https://learn.javascript.ru/ajax) - раздел учебника `learn.javascript.ru`, рекомендуемо на досуге прочесть все
+9. [ООП в прототипном стиле](https://learn.javascript.ru/prototypes)
+10. [ООП в функциональном стиле](https://learn.javascript.ru/oop)
