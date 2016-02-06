@@ -20,4 +20,5 @@
 6. [Самые нужные плагины для Grunt](https://habrahabr.ru/post/251157/)
 7. [Сборка проектов с помощью Gulp.js. Семинар в Яндексе](https://habrahabr.ru/company/yandex/blog/239993/)
 8. [Приятная сборка frontend проекта](https://habrahabr.ru/post/250569/)
-9. [Скринкаст Node.JS. Основные возможности и средства создания веб-сервисов, включая внутренние особенности самого сервера Node.JS](https://learn.javascript.ru/screencast/nodejs) - для тех кто хочет глубже разобраться в `Node.JS`
+9. [Скринкаст по Gulp](http://learn.javascript.ru/screencast/gulp)
+10. [Скринкаст Node.JS. Основные возможности и средства создания веб-сервисов, включая внутренние особенности самого сервера Node.JS](https://learn.javascript.ru/screencast/nodejs) - для тех кто хочет глубже разобраться в `Node.JS`
