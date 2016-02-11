@@ -23,6 +23,7 @@
 11. [Убираем отступы между строчными элементами](http://xiper.net/collect/html-and-css-tricks/pozitsionirovanie/inline-block-margins), здесь есть пример реализации горизонтального меню
 12. [Популярно о псевдоэлементах :before и :after](http://habrahabr.ru/post/154319/)
 13. [О порядке разсположения css-свойств](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/)
+14. [Центрирование в CSS: полное руководство](http://frontender.info/centering-css-complete-guide/)
 
 Бонусное задание:
 
