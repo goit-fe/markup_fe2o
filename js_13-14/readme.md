@@ -21,3 +21,5 @@
 7. [Cookies](https://learn.javascript.ru/cookie)
 8. [Современный стандарт, "use strict"](https://learn.javascript.ru/strict-mode)
 9. [Перехват ошибок, "try..catch"](https://learn.javascript.ru/exception)
+10. [JavaScript Strict Mode](https://habrahabr.ru/post/118666/)
+11. [ECMAScript 5 compatibility table — Strict mode support](http://kangax.github.io/compat-table/strict-mode/)
