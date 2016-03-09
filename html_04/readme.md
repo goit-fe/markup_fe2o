@@ -28,6 +28,7 @@
 15. [Ссылка с возможностями блока](http://xiper.net/learn/tegofenshuj/block-link)
 16. [Inline-block как замена float](http://archive.is/64g0)
 17. [Тень для блока](http://xiper.net/collect/html-and-css-tricks/overclock-site/box-shadow)
+18. [Полное руководство по Flexbox](http://frontender.info/a-guide-to-flexbox/)
 
 
 Бонусное задание:
