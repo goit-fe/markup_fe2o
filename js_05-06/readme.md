@@ -24,5 +24,6 @@
 4. [О том, как работают JavaScript таймеры](http://habrahabr.ru/post/138062/)
 5. [Создание объектов через “new”](https://learn.javascript.ru/constructor-new)
 6. [Явное указание this: “call”, “apply”](https://learn.javascript.ru/call-apply)
+7. [JavaScript для котов](http://vova.io/blog/javascript-for-cats/)
 
 В конце каждой статьи на `learn.javascript.ru` есть задачи, рекомендовано над ними поработать

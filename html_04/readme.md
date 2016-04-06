@@ -30,6 +30,7 @@
 17. [Тень для блока](http://xiper.net/collect/html-and-css-tricks/overclock-site/box-shadow)
 18. [Полное руководство по Flexbox](http://frontender.info/a-guide-to-flexbox/)
 19. [Flexbox Froggy](http://flexboxfroggy.com/)
+20. [WTF, HTML и CSS?](http://frontender.info/wtfhtmlcss/) - общая статья об особенностях верстки
 
 
 Бонусное задание:
