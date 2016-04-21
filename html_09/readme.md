@@ -14,8 +14,9 @@
 5. [Статистика использования браузеров](http://gs.statcounter.com/)
 6. [caniuse.com](http://caniuse.com/)
 7. [IE Debugbar](http://www.debugbar.com/)
-7. [IE Tester](http://www.my-debugbar.com/wiki/IETester/HomePage)
-8. [VirtualBox](https://www.virtualbox.org/)
+8. [IE Tester](http://www.my-debugbar.com/wiki/IETester/HomePage)
+9. [VirtualBox](https://www.virtualbox.org/)
+10. [Тестирование и отладка верстки под ИЕ](https://gist.github.com/codedokode/855e3970124687b26a1c)
 
 Бонусное задание:
 
