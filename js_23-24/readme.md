@@ -20,3 +20,4 @@
 9. [TodoMVC](http://todomvc.com/)
 10. [Используем паттерн Наблюдатель(Observer) для создания индикатора выполнения процесса на Javascript](https://habrahabr.ru/post/70793/)
 11. [Свои события или observer на Javascript](http://php-zametki.ru/javascript-laboratoriya/79-svoi-sobytiya-javascript-observer.html)
+12. [От нуля до героя фронтенда (Часть 2)](https://medium.com/russian/%D0%BE%D1%82-%D0%BD%D1%83%D0%BB%D1%8F-%D0%B4%D0%BE-%D0%B3%D0%B5%D1%80%D0%BE%D1%8F-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0-%D1%87%D0%B0%D1%81%D1%82%D1%8C-2-25f19e56eb29#.51lwyufo5)
