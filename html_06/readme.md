@@ -20,5 +20,4 @@
 5. [Немного о рендеринге страницы](http://frontender.info/css-paint-times/), так же в статье есть полезные ссылки
 6. [CSS3 с погружением](http://habrahabr.ru/post/137348/)
 7. [PixelPerfect for Chrome](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru)
-8. [Обзор плагинов для пиксельной точности](http://zencoder.ru/web-development/pixel-perfect/)
-9. [Glass2k](http://soft.softodrom.ru/ap/Glass2k-p1728)
+8. [Glass2k](http://soft.softodrom.ru/ap/Glass2k-p1728)
