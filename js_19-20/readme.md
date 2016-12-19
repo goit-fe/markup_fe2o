@@ -16,10 +16,9 @@
 6. [Sass-архитектура вашего проекта](https://habrahabr.ru/post/249047/)
 7. [Organizing Your CSS Code for Preprocessors](http://modernweb.com/2014/04/14/organizing-your-css-code-for-preprocessors/)
 8. [SASS против LESS](https://habrahabr.ru/post/144309/)
-9. [CSS-препроцессоры и преимущество их использования](http://zencoder.ru/css/css-sass-less-stylus/)
-10. [LESS](http://lesscss.org/), [Stylus](http://stylus-lang.com/) - аналоги SASS
-11. [Документация lodash](https://lodash.com/)
-12. [lodash (underscore) — знай свою стандартную библиотеку](https://habrahabr.ru/post/217515/)
-13. [Хватит писать циклы for. Пришло время использовать Underscore](http://frontender.info/stop-writing-for-loops-start-using-underscorejs/)
-14. [Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting](http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)
-15. [Введение в Source Maps](https://habrahabr.ru/post/178743/)
+9. [LESS](http://lesscss.org/), [Stylus](http://stylus-lang.com/) - аналоги SASS
+10. [Документация lodash](https://lodash.com/)
+11. [lodash (underscore) — знай свою стандартную библиотеку](https://habrahabr.ru/post/217515/)
+12. [Хватит писать циклы for. Пришло время использовать Underscore](http://frontender.info/stop-writing-for-loops-start-using-underscorejs/)
+13. [Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting](http://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)
+14. [Введение в Source Maps](https://habrahabr.ru/post/178743/)
