@@ -45,6 +45,6 @@
 
 1. [SVG Sprites and Icon Systems Are Super](https://lincolnloop.com/blog/svg-sprites-and-icon-systems-are-super/)
 2. [Сервис для генерации шрифтовых иконок](http://fontello.com/)
-3. [Шрифтовые иконки и сервис IcoMoon](http://zencoder.ru/css-icomoon/)
+3. [Шрифтовые иконки и сервис IcoMoon](https://icomoon.io/)
 4. [Десять причин нашего перехода с иконочного шрифта на SVG](http://frontender.info/ten-reasons-we-switched-from-an-icon-font-to-svg/)
 5. [Адаптивные изображения: переключение разрешений](http://webtackles.ru/css/responsive-images-resolution-switching/)
