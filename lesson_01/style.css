@@ -1,0 +1,28 @@
+body {
+background-color:none;
+}
+.photo{
+	padding-top:50px;
+	text-align:center;
+	}
+.hr{
+	padding-left:50px;
+	padding-right: 50px;
+	margin:20px;
+}
+.list{
+	padding-left: 100px;
+	font-size: 22px;
+}
+li{
+	margin:10px;
+}
+p{
+	padding-top:20px ;
+	margin:8px;
+}
+a{
+	text-decoration:none;
+	margin:20px;
+
+}
